@@ -84,6 +84,18 @@ section {
 	left: -30px;
 	top: -30px;	
 }
+.icon-1 img {
+    height: 50px;
+    width: 50px;
+}
+.icon-2 img {
+    height: 50px;
+    width: 50px;
+}
+.icon-3 img {
+    height: 50px;
+    width: 50px;
+}
 
 /* Figure */
 figure, 
