@@ -96,7 +96,21 @@ section {
     height: 50px;
     width: 50px;
 }
+/* Typography */
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(59, 57, 62);
+    
+}
 
+h3 {
+    font-family: 'Sanchez', serif;
+    color: rgb(165, 72, 94);
+}
+p {
+    font-family: 'Sanchez', serif;
+    font-size: 14px;
+}
 /* Figure */
 figure, 
 figure p {
